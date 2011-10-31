@@ -1,0 +1,34 @@
+package caldeira.fatesg.teste;
+
+import org.junit.Assert;
+
+import fatesg.singleton.Caldeira;
+import fatesg.singleton.enumerador.NivelAgua;
+import fatesg.singleton.enumerador.TemperaturaAgua;
+import fatesg.singleton.exception.CaldeiraException;
+
+public class TestarCaldeiraTest {
+
+	Caldeira caldeira;
+
+	public void testNivelDaAgua() {
+		try {
+			caldeira = Caldeira.getCaldeira();
+			caldeira.setNivelAgua(NivelAgua.ACEITAVEL.getValorNivel());
+			Assert.assertEquals(NivelAgua.ACEITAVEL.getValorNivel(), caldeira.getNivelAgua());
+		} catch (CaldeiraException e) {
+			e.printStackTrace();
+		}
+	}
+
+	public void testNivelDaTemperatura() {
+		try {
+			caldeira = Caldeira.getCaldeira();
+			caldeira.setTemperaturaAgua(TemperaturaAgua.ACEITAVEL.getValorTemperatura());
+			Assert.assertEquals(TemperaturaAgua.ACIMA_MAXIMO.getValorTemperatura(), caldeira.getTemperaturaAgua());
+		} catch (CaldeiraException e) {
+			e.printStackTrace();
+		}
+	}
+
+}

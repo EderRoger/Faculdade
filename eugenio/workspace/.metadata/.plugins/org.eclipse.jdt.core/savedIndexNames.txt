@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+D:\faculdade\periodo_4\Metricas_Desenvolvimento_Eugenio\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1091347983.index
+3508020754.index
+749124478.index
+2928430260.index

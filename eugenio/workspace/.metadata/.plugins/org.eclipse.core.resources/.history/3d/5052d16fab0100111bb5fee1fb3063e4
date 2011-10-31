@@ -1,0 +1,7 @@
+package fatesg.adapter;
+
+public interface Adapter{
+
+	int calculaRaiz(int valor);
+	int potencia(int base,int expoente);
+}

@@ -1,0 +1,17 @@
+package teste;
+
+import main.ClassePrincipal;
+import junit.framework.TestCase;
+
+public class TesteAdapter extends TestCase {
+
+	ClassePrincipal teste = new ClassePrincipal();
+
+	public void testeCalculoDeRaiz() {
+		assertEquals("2",2, (int) teste.calcularRaiz(4));
+	}
+
+	public void testeCalculoDePotencia() {
+		assertEquals("100",100, (int) teste.calculaPotencia(10, 2));
+	}
+}

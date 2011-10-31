@@ -1,0 +1,15 @@
+package main;
+
+import fatesg.adapter.AdapterImplementacao;
+
+
+public class ClassePrincipal {
+
+	static AdapterImplementacao adapter = new AdapterImplementacao();
+	
+	public static void main(String[] args) {
+		adapter.calculaRaiz(2);
+		
+		
+	}
+}

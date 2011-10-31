@@ -1,0 +1,26 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package servidor;
+
+/**
+ *
+ * @author daniel
+ */
+import java.rmi.registry.*;
+
+public class MainServer 
+{
+    public static void main(String[] args) 
+    {
+        try{
+            CalculadoraServerInterface x = new CalculadoraServerInterfaceImpl();
+            Registry registro = LocateRegistry.getRegistry();
+            registro.rebind("CalculadoraServerInterfaceImpl", x);
+        }
+        catch (Exception e){
+            System.out.println("Erro:" + e.getMessage());
+        }
+    }
+}

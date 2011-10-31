@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="fatesg.singleton.entidade.Usuario"/>
+<fullyQualifiedTypeName name="fatesg.singleton.principal.Controle"/>
+<fullyQualifiedTypeName name="fatesg.singleton.enumerador.TipoControle"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="fatesg.singleton.enumerador.NivelGas"/>
+<fullyQualifiedTypeName name="fatesg.singleton.enumerador.TemperaturaAgua"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="fatesg.singleton.principal.Principal"/>
+<fullyQualifiedTypeName name="fatesg.singleton.Caldeira"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="fatesg.singleton.enumerador.NivelAgua"/>
+<fullyQualifiedTypeName name="fatesg.singleton.exception.CaldeiraException"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,16 @@
+package main;
+
+import fatesg.adapter.Adapter;
+import fatesg.adapter.AdapterImplementacao;
+
+public class ClassePrincipal {
+
+	public static void main(String[] args) {
+		calcular(new AdapterImplementacao());
+	}
+
+	static void calcular(Adapter adapter) {
+		adapter.calculaRaiz(20);
+		adapter.potencia(10, 2);
+	}
+}

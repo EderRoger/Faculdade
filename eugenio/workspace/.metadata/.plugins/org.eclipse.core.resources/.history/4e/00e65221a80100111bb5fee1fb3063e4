@@ -1,0 +1,17 @@
+package fatesg.adapter;
+
+public class AdapterImplementacao implements Adapter {
+
+	@Override
+	public double calculaRaiz(double valor) {
+		
+		return Math.sqrt(valor);
+	}
+
+	@Override
+	public double potencia(int base, int expoente) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

@@ -1,0 +1,11 @@
+package teste;
+
+import junit.framework.TestCase;
+
+public class TesteAdapter extends TestCase {
+
+	
+	public void testeCalculoDeRaiz(){
+		
+	}
+}

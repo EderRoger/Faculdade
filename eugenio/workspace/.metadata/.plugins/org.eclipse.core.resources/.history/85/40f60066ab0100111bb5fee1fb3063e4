@@ -1,0 +1,15 @@
+package fatesg.adapter;
+
+public class AdapterImplementacao implements Adapter {
+
+	@Override
+	public int calculaRaiz(int valor) {
+		return Math.sqrt(valor);
+	}
+
+	@Override
+	public int potencia(int base, int expoente) {
+		return Math.pow(base, expoente);
+	}
+
+}

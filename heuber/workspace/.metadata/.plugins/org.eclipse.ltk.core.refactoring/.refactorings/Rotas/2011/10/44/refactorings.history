@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;cidadePartida&apos; in &apos;grafo.GeradorDeRotas.calculaRotasEntreAsCidades(...)&apos; to &apos;rota&apos;&#x0D;&#x0A;- Original project: &apos;Rotas&apos;&#x0D;&#x0A;- Original element: &apos;grafo.GeradorDeRotas.calculaRotasEntreAsCidades(String).cidadePartida&apos;&#x0D;&#x0A;- Renamed element: &apos;cidadePartida&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;cidadePartida&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;grafo{GeradorDeRotas.java[GeradorDeRotas~calculaRotasEntreAsCidades~QString;@cidadePartida!90!109!97!109!QString;!0!true" name="rota" references="true" stamp="1319820927995" version="1.0"/>
+</session>

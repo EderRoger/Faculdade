@@ -1,0 +1,14 @@
+package teste;
+
+import main.ClassePrincipal;
+import junit.framework.TestCase;
+
+public class TesteAdapter extends TestCase {
+
+	ClassePrincipal teste = new ClassePrincipal();
+	
+	
+	public void testeCalculoDeRaiz(){
+		assertEquals(2, teste.calcularRaiz(4));
+	}
+}

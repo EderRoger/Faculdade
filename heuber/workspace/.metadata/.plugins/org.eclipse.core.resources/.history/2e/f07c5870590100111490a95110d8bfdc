@@ -1,0 +1,7 @@
+package teste;
+
+import junit.framework.TestCase;
+
+public class TesteGrafos extends TestCase {
+
+}

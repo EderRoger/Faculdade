@@ -1,0 +1,226 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317691907130
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1317691932246
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1317691934430
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317691937550
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317691949765
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317691959437
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317691978485
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317691985676
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.lineEnd",1317691990980
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317691992603
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1317691995707
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1317691996752
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1317691999155
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1317692003398
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317692008764
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317692009997
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1317692062382
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1317692062990
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317692063864
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692069683
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1317692073520
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1317692078231
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1317692078403
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1317692078512
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1317692111959
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1317692115843
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1317692120071
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692133065
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692135203
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1317692168743
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1317692168899
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1317692169039
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1317692169179
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1317692169335
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1317692169491
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.lineEnd",1317692170271
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692171426
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1317692174577
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1317692174749
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1317692174905
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1317692175076
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1317692175279
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692176433
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1317692185107
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1317692187088
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1317692187681
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.delete.line",1317692213140
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1317692214139
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1317692243233
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineStart",1317692255385
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.lineEnd",1317692258068
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692267569
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692272358
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280283
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692280298
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692284869
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692294666
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1317692299845
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692306803
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1317692309252
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1317692309876
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317692351809
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.rename.element",1317692359874
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1317692367799
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1317692373212
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.delete.line",1317692376941
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692383212
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1317692389748
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1317692390076
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1317692400356
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692401542
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1317692412821
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1317692417813
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1317692427578
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430979
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430979
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430979
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430979
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430979
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430979
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430979
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430979
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430979
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430979
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430979
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995
+no handler,command,org.eclipse.team.svn.ui,,"org.eclipse.team.svn.ui.command.EditPropertiesCommand",1317692430995

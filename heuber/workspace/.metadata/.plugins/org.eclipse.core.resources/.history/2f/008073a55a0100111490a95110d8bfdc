@@ -1,0 +1,13 @@
+package teste;
+
+import grafo.GeradorDeRotas;
+import junit.framework.TestCase;
+
+public class TesteGrafos extends TestCase {
+
+	public void testeDirecoesEntreCidadeAEB(){
+		GeradorDeRotas geradorDeRotas =  new GeradorDeRotas();
+		assertEquals("9",9, geradorDeRotas.calculaRotasEntreAsCidades("A","B"));
+	}
+	
+}

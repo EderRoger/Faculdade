@@ -1,0 +1,19 @@
+package main;
+
+import fatesg.adapter.Adapter;
+import fatesg.adapter.AdapterImplementacao;
+
+public class Calculador {
+
+	Adapter adapter = new AdapterImplementacao();
+	
+	
+	public double calcularPotencia(int base,int expoente){
+		return adapter.potencia(base, expoente);
+	}
+	
+	public double calcularRaiz(double valor){
+		return adapter.calculaRaiz(valor);
+	}
+	
+}

@@ -1,0 +1,12 @@
+INDEX VERSION 1.126+/media/backup/faculdade/periodo_4/sistemas_distribuidos_Daniel_Correia/workspace/.metadata/.plugins/org.eclipse.jdt.core
+124411558.index
+2013154409.index
+2790120878.index
+2359224922.index
+2530390148.index
+823456337.index
+3053179727.index
+3055688770.index
+1376802492.index
+771057606.index
+1660165917.index
