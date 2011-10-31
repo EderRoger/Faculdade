@@ -1,9 +1,6 @@
 package grafo;
 
-/**
- * @author eder
- *
- */
+
 public class GeradorDeRotas {
 
 	public int calculaRotasEntreAsCidades(String rota){
