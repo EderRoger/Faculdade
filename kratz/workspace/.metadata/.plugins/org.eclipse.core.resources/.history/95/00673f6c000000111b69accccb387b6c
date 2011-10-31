@@ -1,0 +1,61 @@
+<?php
+	echo '<!doctype html>'; 
+	echo '<html>';  
+	echo '  <head>';  
+	echo '    <meta charset="ISO-8859-1">'; 
+	echo '    <title>Sistema de Cadastro de Client</title>'; 
+	echo '  </head>';  
+	echo '  <body>'; 
+	
+	include 'cliente.classe.php';
+	
+	$cliente = new CLIENTE();
+	
+	$cliente->setNomeCliente($_POST['nomeCliente']);
+	$cliente->setEmailCliente($_POST['emailCliente']);
+	$cliente->setTelefoneCliente($_POST['telCliente']);
+	$cliente->setSexoCliente($_POST['sexoCliente']);
+	$cliente->setIdadeCliente($_POST['idadeCliente']);
+	
+	echo "O Cliente ".$cliente->getNomeCliente()." será gravado em arquivo.";
+	
+	include 'arquivo.class.php';
+	
+	$arquivo = new ARQUIVO();
+	
+	$arquivo->setArquivo("cliente.txt");
+	
+	$arquivo->setOperacao("a");
+	
+	 $conteudoCliente = $cliente->getNomeCliente().";".
+					   $cliente->getEmailCliente().";".
+					   $cliente->getTelefoneCliente().";".
+					   $cliente->getSexoCliente().";".
+					   $cliente->getIdadeCliente()."\n";
+					   
+	echo "<p>".$arquivo->gravar($conteudoCliente)."</p>";
+	
+	include 'XML.classe.php';
+
+	$XMLLocal = new XMLArquivo("cliente.xml");
+	
+	$XMLLocal->adicionaCliente($cliente->getNomeCliente(), 
+	                           $cliente->getEmailCliente(), 
+	                            $cliente->getTelefoneCliente(),
+	                            $cliente->getSexoCliente(),
+	                            $cliente->getIdadeCliente());
+
+	echo '<p>:: <a href="index.php"> Cadastrar novo Cliente</a><br>';
+	echo ':: <a href="listar.php"> Listar todos os Clientes</a></p>';
+
+	
+	
+	echo '  </body>';
+	echo '</html>';					   
+
+					   
+	
+?>
+
+
+

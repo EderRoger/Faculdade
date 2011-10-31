@@ -1,0 +1,27 @@
+<?php
+/* Arquivo: index.php
+ * Descrição: Página principal de uma sistema de cadastro de cliente usando arquivo e classes
+ * Versão: 1.0
+ * Autor: Ricardo de Andrade Kratz
+ */
+?>
+<!doctype html> 
+<html> 
+  <head> 
+    <meta charset="ISO-8859-1">
+    <title>Sistema de Cadastro de Cliente</title>
+  </head> 
+  <body> 
+	<h1>Bem Vindo ao sistema de Cadastro de Cliente</h1>
+	<p>:: <a href="listar.php"> Listar todos os Clientes</a></p>
+	<form method="post" action="cadastro.php">
+		<p>Nome: <input placeholder="Digite o nome completo" type="text" name="nomeCliente" size="60" required /></p> 
+		<p>E-mail: <input type="email" name="emailCliente" size="60" required /></p>
+		<p>Telefone <input type="tel" name="telCliente" size="30" /></p>
+		<p>Sexo:<br> <input type="radio" name="sexoCliente" value="1"> Masculino<br>
+		    <input type="radio" name="sexoCliente" value="2"> Feminino</p>
+		<p>Idade: <input type="1" name="idadeCliente" size="10" /> </p>
+		<p><input type="submit" value="Cadastrar" /></p>
+	</form>
+  </body>
+</html>
